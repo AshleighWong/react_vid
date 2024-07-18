@@ -11,15 +11,15 @@ import Component from './Component';
 import ColorPicker from './ColorPicker';
 import Count from './Count';
 import MyComponent2 from './MyComponent2';
-import Arrays from './Arrays';
-
+import Arrays from './Arrays'
+import CarList from './CarList';
 
 
 function App() {
 
   return (
     <>
-      <Arrays></Arrays>
+      <CarList></CarList>
     </>
   );
 }
