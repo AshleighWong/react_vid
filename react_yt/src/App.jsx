@@ -15,13 +15,13 @@ import Arrays from './Arrays'
 import CarList from './CarList';
 import Effects from './Effects';
 import Effects2 from './Effects2';
-
+import ComponentA from './ComponentA';
 
 function App() {
 
   return (
     <>
-
+      <ComponentA></ComponentA>
     </>
   );
 }
