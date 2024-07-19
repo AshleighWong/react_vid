@@ -18,7 +18,7 @@ function CarList() {
         setCarModel("");
     }
 
-    const handRemoveCar = (event) => {
+    const handleRemoveCar = (index) => {
         setCars(c => c.filter((_, i) => i !== index));
     }
 
