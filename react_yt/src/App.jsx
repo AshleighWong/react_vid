@@ -13,13 +13,15 @@ import Count from './Count';
 import MyComponent2 from './MyComponent2';
 import Arrays from './Arrays'
 import CarList from './CarList';
+import Effects from './Effects';
+import Effects2 from './Effects2';
 
 
 function App() {
 
   return (
     <>
-      <CarList></CarList>
+
     </>
   );
 }
