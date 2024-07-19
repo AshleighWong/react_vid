@@ -16,12 +16,13 @@ import CarList from './CarList';
 import Effects from './Effects';
 import Effects2 from './Effects2';
 import ComponentA from './ComponentA';
+import References from './References';
 
 function App() {
 
   return (
     <>
-      <ComponentA></ComponentA>
+      <References></References>
     </>
   );
 }
